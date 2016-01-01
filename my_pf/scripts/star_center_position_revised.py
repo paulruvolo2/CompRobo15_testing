@@ -5,6 +5,8 @@
     which allow for the specification of the position and orientation
     of the markers on the ceiling of the room """
 
+# checking to see if reviewable is a good choice for code reviews
+
 import rospy
 from ar_pose.msg import ARMarkers
 from tf.transformations import euler_matrix, euler_from_quaternion, rotation_matrix, quaternion_from_matrix, quaternion_from_euler
