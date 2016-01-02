@@ -1,6 +1,8 @@
 """ Some convenience functions for translating between various representions of a robot pose.
     TODO: nothing... you should not have to modify these """
 
+# got to check this out again
+
 import rospy
 
 from std_msgs.msg import Header, String
