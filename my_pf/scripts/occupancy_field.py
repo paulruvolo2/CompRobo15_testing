@@ -1,5 +1,6 @@
 """ An implementation of an occupancy field that you can use to implement
-    your particle filter's laser_update function """
+    your particle filter's laser_update function
+    (c) 2015 Paul Ruvolo """
 
 import rospy
 
